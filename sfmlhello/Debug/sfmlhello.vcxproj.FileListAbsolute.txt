@@ -1,0 +1,2 @@
+C:\Users\max\Desktop\snake\sfmlhello\Debug\sfmlhello.exe
+C:\Users\Max\Desktop\snake\snake\sfmlhello\Debug\sfmlhello.exe
